@@ -1,0 +1,2 @@
+# tyazu
+Static Web Pages
